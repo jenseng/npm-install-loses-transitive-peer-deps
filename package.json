@@ -1,6 +1,6 @@
 {
   "workspaces": ["workspaces/*"],
-  "dependencies": {
-    "package-with-peer-dep": "file://./package-with-peer-dep"
+  "devDependencies": {
+    "package-with-peer-dep": "file://./package-with-peer-dep/package-with-peer-dep-1.0.0.tgz"
   }
 }
