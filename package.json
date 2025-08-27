@@ -1,0 +1,6 @@
+{
+  "workspaces": ["workspaces/*"],
+  "dependencies": {
+    "package-with-peer-dep": "file://./package-with-peer-dep"
+  }
+}

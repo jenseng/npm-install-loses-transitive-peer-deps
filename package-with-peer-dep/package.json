@@ -1,0 +1,7 @@
+{
+  "name": "package-with-peer-dep",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "vitest": "^2.1.1"
+  }
+}
